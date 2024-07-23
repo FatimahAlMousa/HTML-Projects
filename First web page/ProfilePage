@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Fatimah Al Mousa</title>
+    <link rel="stylesheet" href="style2.css"/>
+</head>
+
+<body>
+    
+    <div>
+        <h1>Fatimah: Web Developer</h1>
+    </div>
+    <div>
+        <img src="photo.jpg" id="photo" width="240" height="135">
+    </div>
+    <div>
+        <h2>Favorite Music Artists</h2>
+    <ul>
+        <li>Taylor Swift</li>
+        <li>Ed Sheeran</li>
+        <li>Adele</li>
+        <li>Billie Eilish</li>
+        <li>Bruno Mars</li>
+    </ul>
+        
+    </div>
+    <div>
+        <h2>Favorite Films</h2>
+        <ol>
+            <li>Enola Holmes</li>
+            <li>Ready Player One</li>
+            <li>Divergent</li>
+            <li>Bad Boys</li>
+            <li>Mission Impossible</li>
+        </ol>
+    </div>
+    <div>
+        <a href="https://www.facebook.com/fatima.almousa.739/about">My Profile</a>
+    </div>
+</body>
+
+</html>
