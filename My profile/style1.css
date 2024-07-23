@@ -1,0 +1,35 @@
+#photo {
+    border: 2px solid blue;
+}
+
+h1 {
+    color: rgb(49, 36, 132);
+    font-size: 20px;
+}
+
+h2 {
+    color: rgb(31, 113, 194);
+}
+
+div {
+    margin: 4px;
+}
+
+.bio, p, .skills, .interests {
+    color: rgb(127, 125, 125);
+}
+
+.bio {
+    text-align: justify; 
+    text-justify: inter-word; 
+    line-height: 1.6; 
+    margin-bottom: 20px;
+}
+
+body {
+    background-color: rgb(225, 225, 234);
+}
+
+h3 {
+    color: rgb(31, 113, 194);  
+}
